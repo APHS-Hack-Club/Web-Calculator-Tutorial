@@ -80,7 +80,7 @@ button:active {
 
 .buttons-container {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);  /* 7 columns for buttons */
+    grid-template-columns: repeat(4, 1fr);  /* 4 columns for buttons */
     gap: 10px;
 }
 
